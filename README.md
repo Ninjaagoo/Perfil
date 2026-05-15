@@ -2,7 +2,7 @@
 
 ### Estudante de Ciência da Computação | Desenvolvedor Fullstack & Entusiasta de Segurança
 
-📍 **Serra, ES** | 📧 [alejandropsilva12@gmail.com](mailto:alejandropsilva12@gmail.com) | 📱 (27) 99656-9832
+📍 **Serra, ES** | 📧 [alejandropsilva12@gmail.com](mailto:alejandropsilva12@gmail.com) | 
 🔗 [LinkedIn](https://www.linkedin.com/in/alejandro-purcente-da-silva-680540402/) | 💻 [GitHub](https://github.com/AlejandroPSilva)
 
 ---
