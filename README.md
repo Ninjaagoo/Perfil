@@ -33,7 +33,7 @@ Faculdade Multivix | *2026/1 – 2029/2* (Em andamento)
 ## Habilidades Técnicas
 
 ### Backend & Banco de Dados
-- **Linguagens/Frameworks:** Node.js, Express, C.
+- **Linguagens/Frameworks:** Node.js, Express, C, Java.
 - **Bancos de Dados:** PostgreSQL.
 - **Segurança:** JWT (JSON Web Tokens), Helmet, Rate Limiting, Proteção de IP, Blacklist de Tokens.
 
@@ -70,10 +70,10 @@ Faculdade Multivix | *2026/1 – 2029/2* (Em andamento)
   
 ---
 
-##  Learning in Public (1º Período)
+##  Learning in Public (2º Período)
 
 Atualmente focado em dominar as bases da computação:
-- [ ] Lógica de Programação Avançada
-- [ ] Estruturas de Dados e Algoritmos
-- [ ] Arquitetura de Computadores
-- [ ] Matemática Discreta
+- [x] Lógica de Programação Avançada
+- [x] Estruturas de Dados e Algoritmos
+- [x] Arquitetura de Computadores
+- [] Matemática Discreta
