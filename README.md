@@ -9,7 +9,7 @@
 
 ##  Resumo Profissional
 
-Estudante de Ciência da Computação (1º período) na Faculdade Multivix, com perfil proativo e autodidata. Foco no desenvolvimento de software profissional, aplicando conceitos de engenharia de software para criar soluções eficientes, seguras e escaláveis. Experiência prática em desenvolvimento Fullstack, implementação de algoritmos de Machine Learning do zero e administração de infraestrutura em nuvem.
+Estudante de Ciência da Computação (2º período) na Faculdade Multivix, com perfil proativo e autodidata. Foco no desenvolvimento de software profissional, aplicando conceitos de engenharia de software para criar soluções eficientes, seguras e escaláveis. Experiência prática em desenvolvimento Fullstack, implementação de algoritmos de Machine Learning do zero e administração de infraestrutura em nuvem.
 
 ---
 
