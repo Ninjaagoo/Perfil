@@ -76,4 +76,4 @@ Atualmente focado em dominar as bases da computação:
 - [x] Lógica de Programação Avançada
 - [x] Estruturas de Dados e Algoritmos
 - [x] Arquitetura de Computadores
-- [] Matemática Discreta
+- [x] Matemática Discreta
